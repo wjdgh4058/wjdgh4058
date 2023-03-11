@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 Tech Stack 🛠</h3>
 <span>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
